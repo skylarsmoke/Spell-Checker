@@ -4,4 +4,4 @@ chikan
 purple
 green
 bloo
-intarior
+coler
